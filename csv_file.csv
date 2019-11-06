@@ -1,6 +1,6 @@
-Name,ID,Breed
-TopDog,001,SaintBernard
-BigDog,007,GermanShephard
-LuckyDog,013,GoldenRetriever
-NYCDog,212,Goldendoodle
-HunDog,036,Komondor
+Index,Name,ID,Breed
+1,TopDog,001,SaintBernard
+2,BigDog,007,GermanShephard
+3,LuckyDog,013,GoldenRetriever
+4,NYCDog,212,Goldendoodle
+5,HunDog,036,Komondor
